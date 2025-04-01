@@ -1,0 +1,3 @@
+- Step 1:  Once setup.py done through command prompt run following code:
+
+---->      pip install -e .
